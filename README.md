@@ -5,7 +5,7 @@ Sistema de gestión de bienes desarrollado bajo la arquitectura de capas, que pe
 
 ---
 
-## Arquitectura de Capas  
+## Arquitectura MVC
 1. **Presentación**  
    - Laravel Blade (templates) y Tailwind CSS/Vite  
    - Componentes JavaScript (ES Modules)  
